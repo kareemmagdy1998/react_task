@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "name": "apple",
+      "price": "22000",
+      "quantity": "200",
+      "id": 1
+    },
+    {
+      "name": "laptop",
+      "price": "20000",
+      "quantity": "200",
+      "id": 2
+    }
+  ]
+}
